@@ -74,7 +74,7 @@ Sou apaixonado por **resolver problemas através da programação** e estou cons
 
 ## 🚀 Filosofia
 
->_"Programar não é apenas sobre digitar linhas de código. É sobre >traduzir problemas complexos em soluções simples, escaláveis e >que geram valor real para quem as utiliza."_
+>_"Programar não é apenas sobre digitar linhas de código. É sobre traduzir problemas complexos em soluções simples, escaláveis e que geram valor real para quem as utiliza."_
 
 ---
 

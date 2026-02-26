@@ -1,6 +1,6 @@
 # Oi 👋, Eu sou Misael Martins
 
-🚀 **Desenvolvedor FullStack | Java**  
+🚀 **Desenvolvedor FullStack | Java & JavaScrip**  
 🇧🇷 Brasil
 
 Eu desenvolvo **soluções multiplataforma, criando sistemas eficientes para Web, dispositivos Android e ambientes Windows.** Meu foco está em construir **interfaces intuitivas e códigos organizados,** buscando sempre o equilíbrio entre **funcionalidade e uma ótima experiência para o usuário.**
